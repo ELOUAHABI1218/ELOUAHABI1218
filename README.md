@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghizlane El Ouahabi</h1>
 
 <h3 align="center">
-Data Engineering Student | Big Data | AI | Data Analytics
+Data Engineering Student | Big Data | AI | Data science 
 </h3>
 
 <p align="center">
