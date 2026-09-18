@@ -71,43 +71,12 @@ I'm currently looking for a **PFE internship opportunity** (or full-time role af
 
 ## Featured Projects
 
-### 🚢 Maritime Document OCR & Parsing
-End-to-end pipeline for extracting structured information from scanned maritime documents, with automated regulatory alerts and reporting.
-
-- OCR with spatial information and bounding boxes
-- Structured information extraction → JSON
-- PostgreSQL storage and Power BI reporting
-- Automated regulatory alert generation
-
-**Tech:** `Python` `PaddleOCR` `OpenCV` `PyMuPDF` `PostgreSQL` `Power BI`
-🔗 [github.com/ELOUAHABI1218/prjt-ocr-maritime](https://github.com/ELOUAHABI1218/prjt-ocr-maritime)
-
-### 💼 Job Intelligent
-End-to-end Data Engineering and AI project for collecting, processing, and analyzing job-market data, with a recommendation layer based on semantic similarity.
-
-- Multi-source job data collection and ingestion
-- Cleaning, standardization, and structured storage
-- Job-market analytics dashboard
-- Embedding-based job recommendation
-
-**Tech:** `Python` `SQL` `FastAPI` `Kafka` `Airflow` `MySQL` `MinIO` `Power BI` `Streamlit`
-🔗 [github.com/ELOUAHABI1218/Job-Intelligent](https://github.com/ELOUAHABI1218/Job-Intelligent)
-
-### 📊 Customer Churn Prediction
-Machine learning project to predict customer churn, from exploratory analysis to a deployed interactive dashboard.
-
-- Feature engineering and selection
-- Model comparison and hyperparameter tuning
-- Interactive Streamlit dashboard for results
-
-**Tech:** `Python` `Pandas` `Scikit-learn` `Streamlit` `Plotly`
-🔗 [github.com/ELOUAHABI1218/custumer-churn-ML-prjt](https://github.com/ELOUAHABI1218/custumer-churn-ML-prjt)
-
-### ⚡ Big Data Streaming Pipeline
-Distributed, real-time data processing pipeline exploring the modern Big Data stack.
-
-**Tech:** `Apache Kafka` `Apache Spark` `Hadoop` `MinIO` `Cassandra` `Grafana`
-🔗 [github.com/ELOUAHABI1218/Transport_projet_bigData](https://github.com/ELOUAHABI1218/Transport_projet_bigData)
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🚢 **[Maritime Document OCR & Parsing](https://github.com/ELOUAHABI1218/prjt-ocr-maritime)** | End-to-end pipeline extracting structured data from scanned maritime documents, with automated regulatory alerts and reporting. | `Python` `PaddleOCR` `OpenCV` `PyMuPDF` `PostgreSQL` `Power BI` |
+| 💼 **[Job Intelligent](https://github.com/ELOUAHABI1218/Job-Intelligent)** | End-to-end Data Engineering and AI project collecting, processing, and analyzing job-market data, with embedding-based job recommendation. | `Python` `SQL` `FastAPI` `Kafka` `Airflow` `MySQL` `MinIO` `Power BI` `Streamlit` |
+| 📊 **[Customer Churn Prediction](https://github.com/ELOUAHABI1218/custumer-churn-ML-prjt)** | Machine learning project predicting customer churn, from exploratory analysis to a deployed interactive dashboard. | `Python` `Pandas` `Scikit-learn` `Streamlit` `Plotly` |
+| ⚡ **[Big Data Streaming Pipeline](https://github.com/ELOUAHABI1218/Transport_projet_bigData)** | Distributed, real-time data processing pipeline exploring the modern Big Data stack. | `Apache Kafka` `Apache Spark` `Hadoop` `MinIO` `Cassandra` `Grafana` |
 
 ---
 
