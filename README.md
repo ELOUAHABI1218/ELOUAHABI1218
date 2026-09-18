@@ -76,9 +76,8 @@ I'm currently looking for a **PFE internship opportunity** (or full-time role af
 | 🚢 **[Maritime Document OCR & Parsing](https://github.com/ELOUAHABI1218/prjt-ocr-maritime)** | End-to-end pipeline extracting structured data from scanned maritime documents, with automated regulatory alerts and reporting. | `Python` `PaddleOCR` `OpenCV` `PyMuPDF` `PostgreSQL` `React` |
 | 💼 **[Job Intelligent](https://github.com/ELOUAHABI1218/Job-Intelligent)** | End-to-end Data Engineering and AI project collecting, processing, and analyzing job-market data, with embedding-based job recommendation. | `Python` `SQL` `FastAPI` `Kafka` `Airflow` `MySQL` `MinIO` `Power BI` `Streamlit` |
 | 📊 **[Customer Churn Prediction](https://github.com/ELOUAHABI1218/custumer-churn-ML-prjt)** | Machine learning project predicting customer churn, from exploratory analysis to a deployed interactive dashboard. | `Python` `Pandas` `Scikit-learn` `Streamlit` `Plotly` |
-| ⚡ **[Big Data Streaming Pipeline](https://github.com/ELOUAHABI1218/Transport_projet_bigData)** | DProjet de pipeline Big Data permettant de collecter, transmettre, traiter et stocker des données en temps réel.
-L'architecture utilise plusieurs technologies de l'écosystème Big Data afin de mettre en place une chaîne complète de traitement streaming.. | `Apache Kafka` `Apache Spark` `Hadoop` `MinIO` `Cassandra` `Grafana` |
-| ⚡ **[Fake News Detection Multilingual Deep Learning](https://github.com/ELOUAHABI1218/Transport_projet_bigData)** | A multilingual deep learning system designed to automatically classify news as fake or real in Arabic, French, and English.. |Python · Pandas · NumPy · TensorFlow/Keras · Scikit-learn · NLP · Deep Learning · Transformers · BERT/mBERT |
+| ⚡ **[Big Data Streaming Pipeline](https://github.com/ELOUAHABI1218/Transport_projet_bigData)** | DProjet de pipeline Big Data permettant de collecter, transmettre, traiter et stocker des données en temps réel. | `Apache Kafka` `Apache Spark` `Hadoop` `MinIO` `Cassandra` `Grafana` |
+| ⚡ **[Fake News Detection Multilingual Deep Learning](https://github.com/ELOUAHABI1218/fake-news-detector)** | A multilingual deep learning system designed to automatically classify news as fake or real in Arabic, French, and English.. |Python · Pandas · NumPy · TensorFlow/Keras · Scikit-learn · NLP · Deep Learning · Transformers · BERT/mBERT |
 
 ---
 
