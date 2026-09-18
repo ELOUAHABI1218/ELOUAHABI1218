@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ghizlane El Ouahabi</h1>
+<h1 align="center">Ghizlane El Ouahabi</h1>
 
-<h3 align="center">
-Data Engineering Student | Big Data | AI | Data science 
-</h3>
+<h3 align="center">Data Engineering Student · Big Data · AI · Data Science</h3>
 
 <p align="center">
-  <a href="linkedin.com/in/el-ouahabi-ghizlane">
+  <a href="https://linkedin.com/in/el-ouahabi-ghizlane">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
@@ -18,187 +16,121 @@ Data Engineering Student | Big Data | AI | Data science
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-🎓 I'm a **3rd Year Engineering Student in Data Engineering** at ENSA Al Hoceima.
+I'm a **3rd-year Data Engineering student at ENSA Al Hoceima**, currently completing my end-of-studies internship (PFE) at **Tanger Med Port Authority**, where I work on OCR and automated processing of maritime documents.
 
-💡 I'm passionate about **Data Engineering, Big Data, Artificial Intelligence and Data Analytics**.
+I like turning messy, real-world data into reliable pipelines — from ingestion and processing to storage, analysis, and visualization. My main interests are **Data Engineering, Big Data, and Applied AI**, and I enjoy projects that go end-to-end rather than stopping at a proof of concept.
 
-🚀 I enjoy building end-to-end data solutions, from data collection and processing to storage, analysis and visualization.
+I'm currently looking for a **PFE internship opportunity** (or full-time role after graduation) in:
 
-🔎 Currently looking for a **PFE internship** in:
-
-* Data Engineering
-* Big Data
-* Data Science
-* Artificial Intelligence
-* Data Analytics
+- Data Engineering
+- Big Data
+- Data Science / Artificial Intelligence
+- Data Analytics
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming & Data
+**Languages & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+**Big Data & Streaming**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![HDFS](https://img.shields.io/badge/HDFS-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-### ⚡ Big Data & Streaming
+**Data Engineering & Backend**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/HDFS-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-</p>
+**AI & Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-4285F4?style=for-the-badge)
 
-### 🔄 Data Engineering
+**Data Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OCR-4285F4?style=for-the-badge"/>
-</p>
-
-### 📊 Data Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-### 🐳 DevOps & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🚢 Ocirisation et parsing des documents maritime et generation des alerts et des rapports
+### 🚢 Maritime Document OCR & Parsing
+End-to-end pipeline for extracting structured information from scanned maritime documents, with automated regulatory alerts and reporting.
 
-An OCR-based solution for extracting structured information from maritime documents.
-
-**Highlights:**
-
-* 📄 Processing scanned maritime documents
-* 🔎 OCR with spatial information and bounding boxes
-* 🧩 Structured information extraction
-* 🗂️ JSON generation
-* 🐘 PostgreSQL data storage
-* 🚨 Regulatory alert generation
-* 📊 Data visualization
+- OCR with spatial information and bounding boxes
+- Structured information extraction → JSON
+- PostgreSQL storage and Power BI reporting
+- Automated regulatory alert generation
 
 **Tech:** `Python` `PaddleOCR` `OpenCV` `PyMuPDF` `PostgreSQL` `Power BI`
-
-➡️ [View Project] https://github.com/ELOUAHABI1218/prjt-ocr-maritime
-
----
+🔗 [github.com/ELOUAHABI1218/prjt-ocr-maritime](https://github.com/ELOUAHABI1218/prjt-ocr-maritime)
 
 ### 💼 Job Intelligent
+End-to-end Data Engineering and AI project for collecting, processing, and analyzing job-market data, with a recommendation layer based on semantic similarity.
 
-An end-to-end Data Engineering and AI project focused on collecting, processing and analyzing job-market data.
-
-**Highlights:**
-
-* 🌐 Job data collection from multiple sources
-* 🔄 Data ingestion and transformation
-* 🧹 Data cleaning and standardization
-* 🗄️ Structured data storage
-* 📊 Job-market analytics
-* 🤖 Intelligent job recommendation
-* 🔎 Semantic similarity and embeddings
+- Multi-source job data collection and ingestion
+- Cleaning, standardization, and structured storage
+- Job-market analytics dashboard
+- Embedding-based job recommendation
 
 **Tech:** `Python` `SQL` `FastAPI` `Kafka` `Airflow` `MySQL` `MinIO` `Power BI` `Streamlit`
-
-➡️ [View Project] https://github.com/ELOUAHABI1218/Job-Intelligent
-
----
+🔗 [github.com/ELOUAHABI1218/Job-Intelligent](https://github.com/ELOUAHABI1218/Job-Intelligent)
 
 ### 📊 Customer Churn Prediction
+Machine learning project to predict customer churn, from exploratory analysis to a deployed interactive dashboard.
 
-A Machine Learning project for predicting customer churn and analyzing customer behavior.
-
-**Highlights:**
-
-* Data cleaning and exploratory analysis
-* Feature engineering
-* Feature selection
-* Machine Learning model comparison
-* Hyperparameter optimization
-* Interactive Streamlit dashboard
-* Model evaluation
+- Feature engineering and selection
+- Model comparison and hyperparameter tuning
+- Interactive Streamlit dashboard for results
 
 **Tech:** `Python` `Pandas` `Scikit-learn` `Streamlit` `Plotly`
-
-➡️ [View Project] https://github.com/ELOUAHABI1218/custumer-churn-ML-prjt
-
----
+🔗 [github.com/ELOUAHABI1218/custumer-churn-ML-prjt](https://github.com/ELOUAHABI1218/custumer-churn-ML-prjt)
 
 ### ⚡ Big Data Streaming Pipeline
-
-A Big Data project exploring distributed data processing and real-time streaming.
+Distributed, real-time data processing pipeline exploring the modern Big Data stack.
 
 **Tech:** `Apache Kafka` `Apache Spark` `Hadoop` `MinIO` `Cassandra` `Grafana`
-
-➡️ [View Project] https://github.com/ELOUAHABI1218/Transport_projet_bigData
+🔗 [github.com/ELOUAHABI1218/Transport_projet_bigData](https://github.com/ELOUAHABI1218/Transport_projet_bigData)
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🏗️ Tanger Med Port Authority — PFE Internship
-
-Working on the automation of maritime document processing through OCR, information extraction and structured data processing.
-
-**Main areas:**
-
+**Tanger Med Port Authority** — *PFE Internship*
+Automating maritime document processing through OCR, information extraction, and structured data pipelines.
 `OCR` · `Document Processing` · `Information Extraction` · `PostgreSQL` · `Data Visualization`
 
----
-
-### 🚚 Emirates Supply Chain Services — IT Internship
-
-Worked on IT and data-related activities in a logistics environment.
-
-**Areas:**
-
+**Emirates Supply Chain Services** — *IT Internship*
+IT and data-related work in a logistics environment.
 `WMS` · `Power BI` · `Database Analysis` · `RFID` · `Barcodes` · `IT Systems`
 
 ---
 
-## 📜 Certification
+## Certification
 
-🎓 **The Machine Learning Process A-Z**
-
-**365 Data Science**
-
-Topics covered include:
-
+**The Machine Learning Process A-Z** — 365 Data Science
 `Problem Framing` · `Data Preparation` · `Model Building` · `Model Evaluation` · `Productionization` · `Imbalanced Data`
 
 ---
 
-## 🎯 Currently Learning
+## Currently Learning
 
 ```text
 Data Engineering
@@ -206,27 +138,21 @@ Data Engineering
       ├── Apache Spark
       ├── Apache Kafka
       ├── Apache Airflow
-      ├── ETL / ELT
-      ├── Data Pipelines
+      ├── ETL / ELT & Data Pipelines
       │
-      ├── Machine Learning
-      ├── MLOps
+      ├── Machine Learning & MLOps
       │
       └── Docker & DevOps
 ```
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ELOUAHABI1218&show_icons=true&theme=transparent&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELOUAHABI1218&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ELOUAHABI1218&theme=transparent&hide_border=true" />
@@ -234,34 +160,18 @@ Data Engineering
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome"/>
-</a>
-
-<a href="https://wa.me/212680809873">
-<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="https://linkedin.com/in/el-ouahabi-ghizlane">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome"/>
+  </a>
+  <a href="mailto:ghizlane.elouahabi@etu.uae.ac.ma">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
----
-
-<p align="center">
-  <b>💡 Building data-driven solutions, one project at a time.</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<p align="center"><b>Building data-driven solutions, one pipeline at a time.</b></p>
