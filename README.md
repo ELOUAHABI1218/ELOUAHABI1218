@@ -18,16 +18,18 @@
 
 ## About Me
 
-I'm a **3rd-year Data Engineering student at ENSA Al Hoceima**, currently completing my end-of-studies internship (PFE) at **Tanger Med Port Authority**, where I work on OCR and automated processing of maritime documents.
+I'm a final-year Data Engineering student at ENSA Al Hoceima, Morocco, passionate about building data-driven solutions and working with modern data technologies.
 
-I like turning messy, real-world data into reliable pipelines — from ingestion and processing to storage, analysis, and visualization. My main interests are **Data Engineering, Big Data, and Applied AI**, and I enjoy projects that go end-to-end rather than stopping at a proof of concept.
+I enjoy transforming raw and complex data into reliable, scalable, and meaningful solutions — from data collection and ingestion to processing, storage, analysis, machine learning, and visualization.
+
+My main interests include Data Engineering, Big Data, Data Science, Machine Learning, and Applied AI. I particularly enjoy building end-to-end projects that combine data pipelines, distributed processing, databases, analytics, and intelligent applications.
 
 I'm currently looking for a **PFE internship opportunity** (or full-time role after graduation) in:
 
 - Data Engineering
 - Big Data
 - Data Science / Artificial Intelligence
-- Data Analytics
+
 
 ---
 
