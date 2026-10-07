@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/el-ouahabi-ghizlane">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://ghizlane-elouahabi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
   </a>
   <a href="mailto:ghizlane.elouahabi@etu.uae.ac.ma">
