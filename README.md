@@ -3,7 +3,7 @@
 <h3 align="center">Data Engineering Student · Big Data · AI · Data Science</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/el-ouahabi-ghizlane">
+  <a href="https://www.linkedin.com/in/el-ouahabi-ghizlane-2a21a4332/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://ghizlane-elouahabi.vercel.app/">
