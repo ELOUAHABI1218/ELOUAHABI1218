@@ -57,8 +57,9 @@ I'm currently looking for a **PFE internship opportunity** (or full-time role af
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![OCR](https://img.shields.io/badge/OCR-4285F4?style=for-the-badge)
-![LLM](https://img.shields.io/badge/OCR-4285F4?style=for-the-badge)
-![RAG](https://img.shields.io/badge/OCR-4285F4?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-7B2CBF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-2A9D8F?style=for-the-badge)
+
 **Data Visualization**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
